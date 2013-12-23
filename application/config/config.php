@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://twitoop-mywiskey.rhcloud.com/';
+$config['base_url']	= 'http://twitoop-mywiskey.rhcloud.com/ci/';
 
 /*
 |--------------------------------------------------------------------------
