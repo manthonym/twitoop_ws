@@ -1,0 +1,51 @@
+body {
+	background-image: url('../images/back.jpg');
+}
+
+#page-table {
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+#page-td {
+    height: 100%;
+    padding: 0;
+    vertical-align: middle;
+}
+
+.jumbotron {
+	background-color: rgb(255, 255, 255);
+	background-color: rgba(255, 255, 255, 1);
+	border-radius: 10px;
+	width: 40%;
+	/*Top, Right, Bottom, Left*/
+	padding: 5px 30px 30px 30px;
+	margin: 4% auto;
+    text-align: left;
+	/*display:inline-block;*/
+	vertical-align:middle;
+}
+
+.hashtag {
+	color: rgb(66, 139, 202);
+}
+
+.container p {
+	font-size: 17px;
+}
+
+#alertEmpty {
+	display:none;
+	padding: 0px;
+}
+
+#alertHashtag {
+	display:none;
+	padding: 0px;
+}
+
+#alertNumber {
+	display:none;
+	padding: 0px;
+}
